@@ -5,16 +5,6 @@ Hamburg, Germany · Python · Django · PostgreSQL</p>
 ___
 
 🧪 Projects coming soon...
-___
-
-## 🎓 Education
-
-**Python Backend Programming**  
-📍 DCI Digital Career Institute GmbH, Berlin (2024–2025)  
-- 🧠 Comprehensive one-year intensive program  
-- 💻 Focus areas: Python Basics, SQL & PostgreSQL, Django, REST APIs, Cloud Services  
-- 🛠️ Numerous practical tasks + final capstone backend project  
-- 🇩🇪 German certification alongside technical training
 
 ___
 
@@ -31,16 +21,39 @@ ___
 
 ---
 
+## 🎓 Education
+
+**Python Backend Programming**  
+
+📍 DCI Digital Career Institute GmbH, Berlin (2024–2025)  
+- 🧠 Comprehensive one-year intensive program  
+- 💻 Focus areas: Python Basics, SQL & PostgreSQL, Django, REST APIs, Cloud Services  
+- 🛠️ Numerous practical tasks + final capstone backend project  
+- 🇩🇪 German certification alongside technical training
+
+___
+
+### 🤝 Looking for
+
+I'm actively seeking:
+
+- 💼 Junior Backend Developer roles
+- 🧪 Internship opportunities
+- 🌐 Freelance projects
+
+Let’s connect!
+
+___
+
 ## 📫 Contact
 
 - 📧 fedak.ulya99@gmail.com 
 - 🌐 [GitHub](https://github.com/UlyaFed)  
 
-
 ---
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=UlyaFed&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
+> Thank you for visiting my pro
