@@ -38,7 +38,6 @@ ___
 I'm actively seeking:
 
 - 💼 Junior Backend Developer roles
-- 🧪 Internship opportunities
 - 🌐 Freelance projects
 
 Let’s connect!
@@ -47,13 +46,14 @@ ___
 
 ## 📫 Contact
 
-- 📧 fedak.ulya99@gmail.com 
-- 🌐 [GitHub](https://github.com/UlyaFed)  
+<a href="fedak.ulya99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
+<a href="https://github.com/UlyaFed"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <br>
+<a href="https://www.instagram.com/uliana_fedak/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=UlyaFed&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=UlyaFed&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
-> Thank you for visiting my pro
+> Thank you for visiting my profile!
