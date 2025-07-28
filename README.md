@@ -46,9 +46,24 @@ ___
 
 ## 📫 Contact
 
-<a href="mailto:fedak.ulya99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
-<a href="https://github.com/UlyaFed"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <br>
-<a href="https://www.instagram.com/uliana_fedak/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="mailto:fedak.ulya99@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+</a>
+<br>
+
+<a href="https://github.com/UlyaFed" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+</a>
+<br>
+
+<a href="https://www.linkedin.com/in/uliana-fedak-010525377/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge" />
+</a>
+<br>
+
+<a href="https://www.instagram.com/uliana_fedak/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+</a>
 
 ---
 
