@@ -46,7 +46,7 @@ ___
 
 ## 📫 Contact
 
-<a href="fedak.ulya99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
+<a href="mailto:fedak.ulya99@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> <br>
 <a href="https://github.com/UlyaFed"/><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a> <br>
 <a href="https://www.instagram.com/uliana_fedak/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-%23C13584?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
