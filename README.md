@@ -1,11 +1,26 @@
 <h1 align="center">Hi there, I'm Uliana Fedak 👋</h1>
 <p align="center"><strong>Junior Backend Developer</strong><br>
-Hamburg, Germany · Python · Django · PostgreSQL</p>
+Hamburg, Germany<br>
+   Python · Django · PostgreSQL · REST API</p>
 
 ___
 
-🧪 Projects coming soon...
+## 📌 Projects
 
+### 🌦 WeatherApp
+A simple and stylish Django web application for checking the current weather in any city worldwide.
+
+🔗 **[View Source Code](https://github.com/UlyaFed/weatherapp)**
+
+![Weather App Screenshot](https://github.com/UlyaFed/weatherapp/raw/main/screenshot.png)
+
+**Key features:**
+- Search weather by city name
+- Displays temperature, description, and weather icon
+- Modern responsive design
+- API key securely stored in `.env`
+
+🧪 More projects coming soon...
 ___
 
 ## 🧰 Tech Stack
