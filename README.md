@@ -20,6 +20,21 @@ A simple and stylish Django web application for checking the current weather in 
 - Modern responsive design
 - API key securely stored in `.env`
 
+### 🚨 Urgent Messages API
+A secure Django REST API for sending urgent messages via SMS or email.
+
+🔗 **[View Source Code](https://github.com/UlyaFed/urgent_messages_api)**
+
+![Urgent Messages Screenshot](https://github.com/UlyaFed/urgent_messages_api/raw/main/view%20messages%20in%20browser.png)
+
+**Key features:**
+- Create and store urgent messages in a database
+- Send SMS via Twilio or email via Django
+- Filter messages by delivery type (SMS/email)
+- Token-based authentication for all API requests
+- Modern HTML interface with Bootstrap
+- All secrets stored in `.env`
+
 🧪 More projects coming soon...
 ___
 
