@@ -32,12 +32,19 @@ https://github.com/user-attachments/assets/33016dee-3209-413c-8120-ceee430d12b1
 
 ___
 
-### 🛠 Fullstack Developer (Freelance)
-**Psychologist Professional Platform** | [Live Demo](https://irakhrystevich.netlify.app/)
-* **Status:** In Active Development (Phase: Feature Expansion & Navigation).
-* **Architecture:** Building a multi-page Single Page Application (SPA) using **React** and **React Router** to manage complex navigation across multiple service sections.
-* **Frontend Excellence:** Engineered a responsive UI with **Tailwind CSS**, focusing on a modular component structure to ensure scalability as the project grows.
-* **Upcoming Milestones:** Integration of **WayForPay** payment gateway for automated booking and session management.
+### 🛠 Professional Platform (Freelance)
+I am developing this comprehensive multi-page platform for a private client to automate their couching practice and digital presence. I manage the entire lifecycle: **from UI/UX design in Figma to complex frontend architecture and backend automation.**
+
+🔗 **[Live Demo](https://irakhrystevich.netlify.app/)** | *Status: In Active Development (Phase: Feature Expansion)*
+
+**Key Deliverables:**
+- **⚛️ Multi-Page SPA Architecture:** Building a scalable Single Page Application using **React** and **React Router** for seamless navigation between services.
+- **🎨 Custom UI System:** Engineered a responsive, modern interface from scratch using **TailwindCSS**, ensuring pixel-perfect design and mobile-first accessibility.
+- **🤖 Business Automation:** Developed an automated notification system integrating **Telegram Bot API** for real-time order alerts and **Email automation** for instant client feedback upon form submission.
+- **💳 Payment & Booking:** Integrating **WayForPay** API to automate session bookings, managing secure transaction flows and redirect logic.
+- **⚙️ Infrastructure & CI/CD:** Set up a professional deployment pipeline via **Netlify**, managing DNS configurations and automated build processes.
+
+**Stack:** React, TypeScript, TailwindCSS, Telegram Bot API, SMTP/Email Services, WayForPay API, Netlify.
 
 ### 🌐 Personal Engineering Hub | [ulianafedak.dev](https://ulianafedak.dev/)
 * **Self-Branding & Architecture:** Designed and developed a professional developer portfolio to showcase fullstack projects and technical expertise.
