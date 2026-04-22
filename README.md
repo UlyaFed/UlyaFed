@@ -46,6 +46,8 @@ I am developing this comprehensive multi-page platform for a private client to a
 
 **Stack:** React, TypeScript, TailwindCSS, Telegram Bot API, SMTP/Email Services, WayForPay API, Netlify.
 
+___
+
 ### 🌐 Personal Engineering Hub | [ulianafedak.dev](https://ulianafedak.dev/)
 * **Self-Branding & Architecture:** Designed and developed a professional developer portfolio to showcase fullstack projects and technical expertise.
 * **Tech Stack:** Built with **React** and **TypeScript**, emphasizing clean code, type safety, and modern UI/UX principles.
