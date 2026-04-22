@@ -9,9 +9,10 @@ Python · Django · PostgreSQL · Docker · REST API</p>
   <a href="mailto:fedak.ulya99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.xing.com/profile/Uliana_Fedak/"><img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" /></a>
 </p>
+
 ___
 
-## 📌 Featured Project (Internship)
+## 📌 Featured Projects
 
 ### 🚀 Finite Air: AI-Powered Custom Design Factory
 I built this SaaS prototype from scratch, focusing on backend architecture and API integrations. I took full ownership of the product's visual identity, **designing the GUI, selecting the optimal frontend tools, and building the interface from the ground up.**
@@ -31,15 +32,17 @@ https://github.com/user-attachments/assets/33016dee-3209-413c-8120-ceee430d12b1
 
 ___
 
-## 📂 Other Projects
+### 🛠 Fullstack Developer (Freelance)
+**Psychologist Professional Platform** | [Live Demo](https://irakhrystevich.netlify.app/)
+* **Status:** In Active Development (Phase: Feature Expansion & Navigation).
+* **Architecture:** Building a multi-page Single Page Application (SPA) using **React** and **React Router** to manage complex navigation across multiple service sections.
+* **Frontend Excellence:** Engineered a responsive UI with **Tailwind CSS**, focusing on a modular component structure to ensure scalability as the project grows.
+* **Upcoming Milestones:** Integration of **WayForPay** payment gateway for automated booking and session management.
 
-### 🌦 WeatherApp
-A simple and stylish Django web application for checking the current weather in any city worldwide.
-🔗 **[View Source Code](https://github.com/UlyaFed/weatherapp)**
-
-### 🚨 Urgent Messages API
-A secure Django REST API for sending urgent messages via SMS (Twilio) or email.
-🔗 **[View Source Code](https://github.com/UlyaFed/urgent_messages_api)**
+### 🌐 Personal Engineering Hub | [ulianafedak.dev](https://ulianafedak.dev/)
+* **Self-Branding & Architecture:** Designed and developed a professional developer portfolio to showcase fullstack projects and technical expertise.
+* **Tech Stack:** Built with **React** and **TypeScript**, emphasizing clean code, type safety, and modern UI/UX principles.
+* **Performance:** Optimized for speed and accessibility, achieving top-tier Lighthouse audit scores.
 
 ___
 
