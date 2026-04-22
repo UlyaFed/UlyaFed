@@ -1,8 +1,14 @@
 <h1 align="center">Hi there, I'm Uliana Fedak 👋</h1>
-<p align="center"><strong>Junior Backend Developer</strong><br>
+<p align="center"><strong>Fullstack Developer</strong><br>
 Hamburg, Germany<br>
 Python · Django · PostgreSQL · Docker · REST API</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/ulianafedak/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ulianafedak.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="mailto:fedak.ulya99@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.xing.com/profile/Uliana_Fedak/"><img src="https://img.shields.io/badge/XING-006567?style=for-the-badge&logo=xing&logoColor=white" /></a>
+</p>
 ___
 
 ## 📌 Featured Project (Internship)
